@@ -3,5 +3,6 @@
     public class PassportOffice
     {
         public int OfficeID;
+        public int another;
     }
 }
